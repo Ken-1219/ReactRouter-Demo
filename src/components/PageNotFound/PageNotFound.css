@@ -1,0 +1,13 @@
+.pnf{
+    background-color: rgb(182, 197, 225);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.pnf_image{
+    height: 50%;
+    width: 70%;
+    mix-blend-mode: multiply;
+}

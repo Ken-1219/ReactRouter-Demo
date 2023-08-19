@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+}
+
+.home-heading{
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+}
+
+.home-para{
+    margin: 1rem;
+    line-height: 2;
+}
+
+

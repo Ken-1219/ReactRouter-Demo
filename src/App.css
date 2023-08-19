@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(182, 197, 225);
+}
+
+.active{   
+    color: rgb(175, 26, 26);
+}
+
+button{
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: gray;
+}
